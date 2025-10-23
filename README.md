@@ -1,6 +1,6 @@
 # Trabajo Práctico Integrador Base de Datos 1
 
-**Alumnos:** HERNAN JAVIER CASALDERREY (Comisión 13) · FRANCO JOEL GHILARDI ARMIJO (Comisión 14) · LAUTARO LANER (Comisión 3) · ZAMPIERI PAMELA (Comisión 18)  
+**Alumnos - Grupo 8:** HERNAN JAVIER CASALDERREY (Comisión 13) · FRANCO JOEL GHILARDI ARMIJO (Comisión 14) · LAUTARO LANER (Comisión 3) · ZAMPIERI PAMELA (Comisión 18)  
 **Tecnicatura Universitaria en Programación — Universidad Tecnológica Nacional**  
 **Docente Titular:** Oscar Londero  
 **Docentes Tutores:** Diego Lobos (Comisión 13), Martín Garcia (Comisión 14), David Rocco (Comisión 3), Guillermo Londero (Comisión 18)
